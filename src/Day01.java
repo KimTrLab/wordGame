@@ -3,12 +3,13 @@ public class Day01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// 불금이다 주말에 공부해야지
 		int a=0;//선언문 변수이름이 a 초기값 0
 		int b=0;//선언문 변수이름이 b 초기값 0
 		a=30;  //30을 a변수 값에 대입
 		b=50;  //
 		int c=0; //
-		c=a+b; //
+		//c=a+b; //
 		System.out.println(c); //c변수 값을 콘솔에 출력
 		//System.out.println() 명령어는 콘솔에 출력하라.
 	
